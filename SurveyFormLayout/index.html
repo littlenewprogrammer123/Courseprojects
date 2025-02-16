@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Survey Form</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+   <h1 id="title">Survey Form</h1>
+   <p id="description">Thank you for participating in our survey. Your feedback is incredibly valuable to us as we strive to improve our services and better meet your needs. This survey should only take a few minutes to complete. Your responses will remain confidential and will be used solely for research purposes. We appreciate your time and input!</p>
+   <form id="survey-form">
+    <fieldset>
+    <label for="name" id="name-label">Name</label>
+      <input id="name" type="text" placeholder="Name" required>
+   <label for="email" id="email-label">Email</label>
+    <input id="email" type="email" placeholder="Email" required>
+    <label for="number" id="number-label">Age</label>
+     <input id="number" type="number" required min="8" max="120" placeholder="Number">
+      <label>Which option best describes your current role?</label>
+      <select name="dropdown" id="dropdown">
+        <option value="1">Student</option>
+        <option value="2">Full time Work</option>
+        <option value="3">Work From Home</option>
+        <option value="4">Other</option>
+      </select>
+      <input value="5" name="recommend" type="radio">
+      <input value="6" name="recommend" type="radio">
+      <input value="7" name="recommend"  type="radio">
+      <input value="8" name="recommend"  type="radio">
+     <input value="Front-end" type="checkbox">
+     <input value="Back-end" type="checkbox">
+     <input value="Data-Visualization" type="checkbox">
+     <input value="Wiki" type="checkbox">
+     <input value="Forum" type="checkbox">
+     <input value="Additional-Courses" type="checkbox">
+     <textarea name="comments" id="comments"></textarea>
+     <button id="submit" type="submit">Submit</button>
+    </fieldset>
+   </form>
+  </body>
+</html>
+
