@@ -10,3 +10,7 @@ This project demonstrates CSS-styled colored markers using HTML and CSS. The mar
 - Uses linear gradients and box shadows for a realistic effect.
 - Responsive design.
 
+## Technologies Used
+
+- **HTML5**
+- **CSS**
