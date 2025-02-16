@@ -1,6 +1,6 @@
 # Registration Form
 
-![Registration Form](https://via.placeholder.com/800x400.png)
+![Registration Form](https://github.com/littlenewprogrammer123/Courseprojects-html-css-/blob/4cb1d9989e8af4217f534ca87d66f4f3c5fae986/RegisterForm/Screenshot_2025_0216_165513.jpg)
 
 This is a simple **Registration Form** built using HTML and CSS. The form collects user details like name, email, password, age, profile picture, account type, and a short bio. It includes validation and a responsive design.
 
