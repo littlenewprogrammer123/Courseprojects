@@ -1,6 +1,6 @@
 # Cafe Menu
 
-![Cafe Menu Preview](image-path-here)
+![Cafe Menu Preview](https://github.com/littlenewprogrammer123/Courseprojects-html-css-/blob/f9b001468f019d7aba5c8d658c26e3a99722a7a0/Cafe%20Menu(basic)/Screenshot_2025_0216_123159.jpg)
 
 A simple, responsive Cafe Menu built using HTML and CSS.
 
