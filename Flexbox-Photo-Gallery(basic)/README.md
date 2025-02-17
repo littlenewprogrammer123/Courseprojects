@@ -1,7 +1,7 @@
 # CSS Flexbox Photo Gallery
 
 This project showcases a responsive photo gallery using CSS Flexbox. The gallery adjusts its layout based on the screen size, making it perfect for viewing on various devices.
-![wesite image](https://github.com/littlenewprogrammer123/Courseprojects-html-css-/blob/0e133267e49d09da94bc1678c02f402b095ccdff/Flexbox-Photo-Gallery/Screenshot%202025-02-17%20231805.png)
+![website image](https://github.com/littlenewprogrammer123/Courseprojects-html-css-/blob/0e133267e49d09da94bc1678c02f402b095ccdff/Flexbox-Photo-Gallery/Screenshot%202025-02-17%20231805.png)
 ## Features
 
 - Responsive layout
