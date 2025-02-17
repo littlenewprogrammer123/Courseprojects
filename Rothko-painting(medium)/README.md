@@ -4,7 +4,7 @@ This project is a simple HTML and CSS implementation of a Rothko-style abstract 
 
 ## Preview
 
-![Project Preview](https://via.placeholder.com/500x600)
+![Project Preview](https://github.com/littlenewprogrammer123/Courseprojects-html-css-/blob/4b0d015a2a1905a5c71c131a968f5273c81b210f/Rothko-painting(medium)/Screenshot_2025_0217_180029.jpg)
 
 ## Features
 - A simulated canvas with layered color blocks.
