@@ -18,7 +18,7 @@ This project creates a nutrition label using HTML and CSS. The label is styled t
 3. Replace the dummy image link with your website image.
 
 ## Screenshot
-![Screenshot](https://dummyimage.com/600x400/000/fff)
+![Screenshot]([https://dummyimage.com/600x400/000/fff](https://github.com/littlenewprogrammer123/Courseprojects-html-css-/blob/282a7360ae3d7ac783b9cd9643fde327ffc328f1/Nutrition-Label(hard)/Screenshot%202025-02-18%20205847.png))
 
 ## Code Explanation
 ### HTML
